@@ -1,3 +1,5 @@
+<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
+
 # Envio de Correos Electrónicos Masivos con Adjuntos
 
 _Mediante el siguiente proyecto se realiza envio de de correo electrónico de forma masiva dependiendo de una lista de contactos y envio de adjuntos por cada contacto_
