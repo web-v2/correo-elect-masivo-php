@@ -1,4 +1,4 @@
-<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
+<image src="https://www.teenvio.com/wp-content/uploads/2023/02/como-enviar-emails-masivos.jpg" alt="Descripción de la imagen">
 
 # Envio de Correos Electrónicos Masivos con Adjuntos
 
