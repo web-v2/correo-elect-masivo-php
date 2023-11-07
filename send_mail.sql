@@ -39,8 +39,8 @@ CREATE TABLE `contactos` (
 --
 
 INSERT INTO `contactos` (`id_cont`, `nombres`, `correo`, `path`) VALUES
-(1, 'SAMIR VERGARA V', 'samirantoniovergaravergara@gmail.com', '1548805'),
-(2, 'VERONICA CHARRIS', 'irisrenalfacturacion@gmail.com', '2548805');
+(1, 'SAMIR VERGARA V', 'sv@gmail.com', '1548805'),
+(2, 'VERONICA CHARRIS', 'if@gmail.com', '2548805');
 
 -- --------------------------------------------------------
 
